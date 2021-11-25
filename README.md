@@ -43,8 +43,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/jama79)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/javier-malagon-38a529205/)
+- GitHub: [@jama79](https://github.com/jama79)
+- LinkedIn: [Javier Malagon](https://www.linkedin.com/in/javier-malagon-38a529205/)
 
 
 
